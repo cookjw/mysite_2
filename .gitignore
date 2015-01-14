@@ -1,0 +1,15 @@
+# Things that should not be in version control---
+
+
+# Python bytecode files
+*.pyc
+
+# local output
+
+
+# not ready yet:
+
+
+# commit message files 
+
+
